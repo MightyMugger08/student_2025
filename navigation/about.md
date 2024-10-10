@@ -18,7 +18,7 @@ Im going to work the hardest in this class because this is like a life skill to 
 
 <script src="https://utteranc.es/client.js"
         repo="MightyMugger08"
-        issue-term="pathname"
+        issue-term="MightyMugger08"
         theme="github-light"
         crossorigin="anonymous"
         async>
